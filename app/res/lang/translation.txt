@@ -1,0 +1,67 @@
+
+
+ເລືອກລົດທີ່ຕ້ອງການຈອງໃຊ້ງານ                             ທັງໜົດ (5) 
+Choose the car you want to reserve                     all (5)
+
+ລາຍການ
+Listing   \ available
+
+ລາຍລະອຽດພາຫະນະ
+Vehicle details/description?
+
+ປະເພດ: 4 ບ່ອນນັ່ງ
+Type: 4 seats
+
+ລຸ້ນ: Fortune
+Generation? / Brand
+
+ປະເພດນ້ຳມັນ: ກາຊວນ
+Fuel Type: Diesel
+
+
+ທະບຽນລົດ: ອຮ 1991
+Car number
+Car registration
+
+
+
+
+
+
+Sign In - ເຂົ້າສູ່ລະບົບ
+Forgot your password ? - ລືມ  ລະຫັດຜ່ານ?
+Remember the email /me - ຈື່ອີເມວໄວ້
+
+Menu/program/list  -ລາຍການ
+
+Permission
+Approved - ອານຸມັດແລ້ວ
+disapproved - ບໍ່ອະນຸມັດ
+waiting approval - ຖ້າອານຸມັດ
+
+Department - ພະແໜກ
+
+from - ເລີ່ມ
+to - ສິ້ນສຸດ
+
+subscriber detail - ລາຍລະອຽດຂອງຜູ້ຈອງ
+name of subscriber - ຊື່ຂອງຜູ້ຈອງ
+phone number - ເບີໂທ
+email - ອີເມວ
+
+make a reservation - ທຳການຈອງ
+
+click to book / Book Now  - ກົດຈອງ
+Cancel - ຍົກເລີກ
+
+(picking date/time)
+Begin - ເລີ່ມຕົ້ນ
+to - ຫາ
+Start Time - ເວລາເລີ່ມຕົ້ນ
+Finish Time - ເວລາສີ້ນສຸດ
+More details - ລາຍລະອຽດເພີ່ມເຕີ່ມ
+
+Choose the car you want to reserve - ເລືອກລົດທີ່ຕ້ອງການຈອງໃຊ້ງານ
+Click on Make a reservation to enter the date and time- ກົດທີ່ທຳການຈອງເພື່ອໃສ່ວັນທີແລະເວລາ
+
+
